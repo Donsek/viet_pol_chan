@@ -1,6 +1,6 @@
 # TikTok Political Content Analysis (Vietnamese Segment)
 
-The analysis is conducted in order to identify the most probable **formula for a successful TikTok video** on politics and international relations in the Vietnamese content ecosystem.
+The analysis is conducted in order to identify the most probable **formula for a successful TikTok video** on politics and international relations in Vietnamese.
 
 The dataset was collected from three successful creators that regularly publish content within this niche:
 
@@ -67,6 +67,8 @@ like_rate = likes / num_views * 100
 
 These indicators allow comparison of videos independently from the absolute audience size of the creators.
 
+The limitation is that we cannot collct data on chronological changes in the number of subscribers.
+
 ---
 
 # "Ideal" Duration
@@ -77,7 +79,7 @@ Video length does not appear to have a strong negative effect on performance.
 
 However, most videos cluster within the **67–163 seconds range**, which can be considered a practical **sweet spot** for political commentary content.
 
-This duration is long enough to provide a short narrative or explanation but short enough to maintain viewer retention.
+This duration is long enough to provide a short narrative or explanation but short enough to maintain viewer's retention.
 
 ---
 
